@@ -53,3 +53,9 @@ TagManager:
   - name: char
     uniqueID: 2634317779
     locked: 0
+  - name: water
+    uniqueID: 2888360883
+    locked: 0
+  - name: Foreground
+    uniqueID: 649807269
+    locked: 0
